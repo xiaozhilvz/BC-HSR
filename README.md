@@ -1,4 +1,4 @@
-#BC-高铁
+#BC-star_rail
 Improved the way it works. 
 I compiled this junk code for 6 hours
 
